@@ -1,4 +1,4 @@
-# Data-Vis-Group-Project
+# Data Visualization Group Project: Chess Opening Moves
 
 See the visualization here: https://jberger789.github.io/ChessVisualizationProject/
 
