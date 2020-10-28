@@ -1,5 +1,7 @@
 # Data-Vis-Group-Project
 
+See the visualization here: https://jberger789.github.io/ChessVisualizationProject/
+
 ## Overview
 
 This project asks the question: What choices can chess players make to maximize their chance of winning? 
